@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PizzaThatCodes&label=Profile%20views&color=0e75b6&style=flat" alt="PizzaThatCodes" /> </p>
 
-- 🔭 I’m currently working on [Audara](https://audara.pyzatech.com), []()
+- 🔭 I’m currently working on [Audara](https://audara.pyzatech.com), [ShardHost](https://shardhost.com),
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
